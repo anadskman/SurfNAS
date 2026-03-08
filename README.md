@@ -101,3 +101,8 @@ Button:
 | Heat Sink | Blue kit | [Aliexpress](https://www.aliexpress.com/item/1005003083830470.html) | 1 | 2.36
 |  |  |  | Shipping | 8.85
 |  |  |  | Total | 161.51
+
+## Images
+| Schematic | Case | Finished Look
+| :---: | :---: | :---:
+| ![Image](https://github.com/user-attachments/assets/a97f8c04-a15a-4a98-8003-37b55bf0f6b8) | ![Image](https://github.com/user-attachments/assets/8fea5420-194c-4fa2-a3f7-f590dbe7e3d7) | ![Image](https://github.com/user-attachments/assets/f3cacc91-75bf-49c4-8f35-7c5dbf913712)
