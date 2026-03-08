@@ -85,7 +85,7 @@ LED:
 | Red	heavy | load
 
 Button:
-- safe shutdown
+- Power Control
 
 ## BOM
 | Name | Description | URL | QTY | Price(€)
