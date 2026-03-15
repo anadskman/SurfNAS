@@ -105,4 +105,4 @@ Button:
 ## Images
 | Schematic | Case | Finished Look
 | :---: | :---: | :---:
-| ![Image](https://github.com/user-attachments/assets/a97f8c04-a15a-4a98-8003-37b55bf0f6b8) | ![Image](https://github.com/user-attachments/assets/8fea5420-194c-4fa2-a3f7-f590dbe7e3d7) | ![Image](https://github.com/user-attachments/assets/f3cacc91-75bf-49c4-8f35-7c5dbf913712)
+| ![Image](https://github.com/user-attachments/assets/a97f8c04-a15a-4a98-8003-37b55bf0f6b8) | ![Image](https://github.com/anadskman/SurfNAS/blob/main/Screenshot%202026-03-15%20224113.png) | ![Image](https://github.com/anadskman/SurfNAS/blob/main/Screenshot%202026-03-15%20230135.png)
